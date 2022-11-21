@@ -1,1 +1,47 @@
 /* Write your CSS here! */
+ body {
+    margin: 8px;
+    display: block;
+    background-color: black;
+}
+ #mainHeading {
+    text-align: center;
+    color: red;
+    font-size: 35px;
+    border-style: dashed;
+    border-color: white;
+    margin: 10%;
+}
+ .funParagraph {
+    color: green;
+}
+ #writer {
+    color: yellow;
+    font-size: 9pt;
+    text-align: auto;
+}
+.animalName {
+    color: purple;
+    margin: 10px;
+    font-size: 20px;
+}
+.animalDescription {
+margin: 50px;
+}
+img {
+    width: 100%;
+}
+div {
+    flex-wrap: wrap;
+}
+article {
+    text-align: right;
+    text
+}
+footer {
+    color: grey;
+    border-style: inset;
+}
+p {
+color: green
+}
