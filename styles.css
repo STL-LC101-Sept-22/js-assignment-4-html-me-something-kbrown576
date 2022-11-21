@@ -2,11 +2,39 @@
  body {
     margin: 8px;
     display: block;
+    background-color: lightblue;
 }
 #mainHeading {
-    padding: 50%;
+    text-align: center;
+    padding: 0%;
     color: red;
 }
 .funParagraph {
     color: green;
+}
+h2 {
+    color: yellow;
+    text-align: center;
+    font-size: 9pt;
+}
+.animalName {
+    color: purple;
+    margin: 10px;
+}
+.animalDescription {
+margin: 50px;
+}
+img {
+    width: 100%;
+}
+div {
+    flex-wrap: wrap;
+}
+article {
+    text-align: right;
+    text
+}
+footer {
+    color: grey;
+    border-style: inset;
 }
